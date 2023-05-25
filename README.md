@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Halfwai
 - 👀 I’m interested in sports and the outdoors, and computers and the indoors
-- 🌱 I’m in my first year of a BSC in Computer Science with the University of London
+- 🌱 Halfway through a BSC in Computer Science with the University of London
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me: wpeterlee@gmail.com
 
