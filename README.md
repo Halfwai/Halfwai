@@ -1,7 +1,21 @@
-- 👋 Hi, I’m @Halfwai
-- 👀 I’m interested in sports and the outdoors, and computers and the indoors
-- 🌱 Halfway through a BSC in Computer Science with the University of London
-- 💞️ I’m looking to collaborate on anything and everything
+# 🚀Welcome
+
+## My name is Wai and I want to become a software engineer
+
+### I am currently looking for my first junior role
+
+#### I started learning to code in 2022 by completing Harvard's CS50. This inspired me to apply for the University of London and a degree in Computer Science. I am currently in my final year.
+
+## Languages, frameworks and tools
+- HTML/CSS/JavaScript, Python, C, C++, C#, SQL
+- Django, Flask, NodeJS, Express, React Native, P5.js, Matter.js, JUCE, SQLite
+- Visual Studio Code, Visual Studio, Unity, Ardiuno, Git
+
+## Current Projects(June 2024)
+- Gamified travel app built in React Native.
+- Assisted living IoT device using Ardiuno microcontrollers.
+- Web application for Group Buying Facebook group.
+
 - 📫 How to reach me: wpeterlee@gmail.com
 
 <!---
