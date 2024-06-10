@@ -16,7 +16,7 @@
 - Assisted living IoT device using Ardiuno microcontrollers.
 - Web application for Group Buying Facebook group.
 
-- 📫 How to reach me: wpeterlee@gmail.com
+#### 📫 How to reach me: wpeterlee@gmail.com
 
 <!---
 Halfwai/Halfwai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
