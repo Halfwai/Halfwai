@@ -18,7 +18,7 @@
 
 #### 📫 How to reach me: wpeterlee@gmail.com
 
-![](https://komarev.com/ghpvc/?username=Halfwai)
+![](https://komarev.com/ghpvc/?username=Halfwai&color=blueviolet)
 
 <!---
 Halfwai/Halfwai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
