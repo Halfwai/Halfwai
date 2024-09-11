@@ -4,7 +4,7 @@
 
 ### I am currently looking for my first junior role
 
-#### I started learning to code in 2022 by completing Harvard's CS50. This inspired me to apply for the University of London and a degree in Computer Science. I am currently in my final year.
+#### I started learning to code in 2022 by completing Harvard's CS50. This inspired me to return to University to study Computer Science. I am currently in my final year, and on course to receive First Class Honours.
 
 ## Languages, frameworks and tools
 - HTML/CSS/JavaScript, Python, C, C++, C#, SQL
