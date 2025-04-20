@@ -4,19 +4,26 @@
 
 ### I am currently looking for my first junior role
 
-#### I started learning to code in 2022 by completing Harvard's CS50. This inspired me to return to University to study Computer Science. I am currently in my final year, and on course to receive First Class Honours.
+#### I started learning to code in 2022 by completing Harvard's CS50. This inspired me to return to University to study Computer Science with the University of London. I've recently completed my studies and am awaiting my final grades.
+
+## Relevant Grades
+- Mobile Development (84%)
+- Software Design and Development (89%) 
+- Object-Oriented Programming (88%) 
+- Databases Networks and the Web (89%)
+
 
 ## Languages, frameworks and tools
 - HTML/CSS/JavaScript, Python, C, C++, C#, SQL
-- Django, Flask, NodeJS, Express, React Native, P5.js, Matter.js, JUCE, SQLite
-- Visual Studio Code, Visual Studio, Unity, Ardiuno, Git
+- React Native, React, Next.js, Django, Flask, Node.js, Express, P5.js, Matter.js, JUCE, SQLite
+- Visual Studio Code, Visual Studio, Unity, Arduino, Git
 
-## Current Projects(June 2024)
-- Gamified travel app built in React Native.
-- Assisted living IoT device using Ardiuno microcontrollers.
-- Web application for Group Buying Facebook group.
+## Current Projects(April 2025)
+- Web application for a Group Buying Facebook group.
+- Ongoing update to https://chueti.com/
+- AI coding model training using Reinforcement Learning from Human Feedback (RLHF) with Outlier AI
 
-#### 📫 How to reach me: wpeterlee@gmail.com
+#### 📫 How to reach me: waisanpeterlee@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=Halfwai&color=blueviolet)
 
